@@ -1,6 +1,6 @@
-<!-- <div align="center">
-<img width="1200" height="475" alt="Kopi Nusantara Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div> -->
+<div align="center">
+<img width="1200" height="475" alt="Kopi Nusantara Banner" src="src/assets/Kopi%20Nusantara%20Hero.png" />
+</div>
 
 # Kopi Nusantara – Premium Digital Menu & Brand Site
 
@@ -36,7 +36,7 @@ This project is part of my freelancing portfolio, focused on the **F&B UMKM nich
 
 | Homepage Hero | Menu View | Mobile Experience |
 |---------------|-----------|-------------------|
-| ![Hero](src/assets/Kopi Nusantara Hero.png)    | ![Menu](src/assets/Kopi Nusantara Menu.png)| ![Mobile](src/assets/Kopi Nusantara Mobile.png)      |
+| ![Hero](src/assets/Kopi%20Nusantara%20Hero.png)    | ![Menu](src/assets/Kopi%20Nusantara%20Menu.png)| ![Mobile](src/assets/Kopi%20Nusantara%20Mobile.png)      |
 
 *(Add your own screenshots in place of `#` links)*
 
