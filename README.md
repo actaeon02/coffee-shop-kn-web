@@ -1,13 +1,13 @@
-<div align="center">
+<!-- <div align="center">
 <img width="1200" height="475" alt="Kopi Nusantara Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+</div> -->
 
 # Kopi Nusantara – Premium Digital Menu & Brand Site
 
 A blazing‑fast, mobile‑first website for a specialty coffee shop.  
 Built as a **portfolio project** to demonstrate modern front‑end craftsmanship, performance optimisation, and real‑world business thinking.
 
-> 🔗 **Live Demo:** [kopinusantara.netlify.app](#) (replace with your deployed URL)
+> 🔗 **Live Demo:** [kopinusantara.netlify.app](#)
 
 ---
 
@@ -23,7 +23,7 @@ This project is part of my freelancing portfolio, focused on the **F&B UMKM nich
 ## ✨ Key Features
 
 - **Mobile‑first responsive design** – looks and feels like a native app on phones
-- **Digital menu** with smooth category filtering (Makanan, Minuman, Patisserie)
+- **Digital menu** with smooth category filtering (Minuman, Patisserie)
 - **Interactive map & opening hours** (Google Maps embed)
 - **Working contact form** with client‑side validation
 - **“Order Ahead” button** that opens a WhatsApp chat with a pre‑filled message
@@ -45,8 +45,7 @@ This project is part of my freelancing portfolio, focused on the **F&B UMKM nich
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML5, CSS3, vanilla JavaScript
-- **Hosting:** Netlify / Vercel (or your choice)
-- **APIs (optional):** Gemini API – for the AI coffee chat assistant
+- **Hosting:** Netlify
 - **Form handling:** [Web3Forms](https://web3forms.com/) (free tier)
 
 ---
