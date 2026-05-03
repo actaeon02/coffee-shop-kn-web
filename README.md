@@ -36,7 +36,7 @@ This project is part of my freelancing portfolio, focused on the **F&B UMKM nich
 
 | Homepage Hero | Menu View | Mobile Experience |
 |---------------|-----------|-------------------|
-| ![Hero](#)    | ![Menu](#)| ![Mobile](#)      |
+| ![Hero](src/assets/Kopi Nusantara Hero.png)    | ![Menu](src/assets/Kopi Nusantara Menu.png)| ![Mobile](src/assets/Kopi Nusantara Mobile.png)      |
 
 *(Add your own screenshots in place of `#` links)*
 
